@@ -1,0 +1,141 @@
+@media  screen  and (max-width:605px) {
+
+   
+    .bar2 {
+        border-bottom: 2px solid #f2f2f2;
+        width: 100%;
+        text-align: center;
+        padding-left: 20PX;
+
+    }
+    .bar2 a{
+        color: black !important;
+    }
+
+    .bar1{
+        border-bottom: 2px solid #0065FC;
+        width: 100%;
+        text-align: center;
+        border-top: none;
+        padding-left: 20PX;
+
+
+    }
+    .hedaer-nav ul {
+        margin-left: -40PX;
+    }
+
+  .button{
+    display: block;
+    height: 45px;
+    width: 45px;
+    position: relative;
+    border: 0px;
+    border-radius: 0.6em;
+    font-size: 15px;
+    background-color: #0065FC;
+    color: white;
+   } 
+   .button span{
+       display: none;
+   }
+ 
+   .button i{
+    display: block;
+  }
+  .titre{
+   
+    font-size: 12px;
+
+  }
+    .filtres{
+        display: block;
+    }
+
+    body {
+        display: block;
+      
+    }
+    .populaires{
+        padding: 5px;
+    }
+    
+    .categories, .name{
+        display: block;
+        margin-bottom: 0px;
+    } 
+    .filtres{
+        display: grid;
+        
+    }
+    
+
+    #container {
+        display: flex;
+        flex-direction: column-reverse        ;
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    .container-bloc {
+        display: flex;
+        flex-direction: column;
+        margin: 17px;
+    }
+    
+   
+    .blocs-1, .blocs-2 {
+        display: block;
+        width: auto;
+    }    
+
+    .hebergement{
+        margin-bottom: 20px;
+    }
+    .populaires{
+        margin-right: 30px;
+        margin-bottom: 30px;
+
+    }
+    .populaires-titre {
+        padding-left: 20px; 
+    }
+
+    .populaires-titre i{
+        padding: 20px;
+    }
+    li, a{
+        text-decoration: none;
+        margin-right: 0;
+        color: black;
+      }
+
+    .activite-image1 {
+        height: auto;
+    }
+    
+    .activite-image2{
+    
+        height: 100%;
+    }
+    .bloc-left{
+        display: block;   
+        padding-left: 0;
+        margin-left: -139px;
+    }
+    ul li{
+        
+        padding-bottom: 10px;
+        text-align: left;
+      }
+
+      .container-footer{
+
+        display: flex;
+        justify-content: space-evenly;
+  
+ }
+
+
+
+}

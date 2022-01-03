@@ -1,0 +1,42 @@
+@media screen and (max-width:992px)
+
+{ .navbar{
+    display: block;
+    text-align: center;
+}
+.filtres{
+    display: block;
+}
+
+.categories, .name{
+    display: block;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+#container{
+    display: block;  
+}
+.hebergement{
+    margin-left: 20px;
+    margin-bottom: 20px;
+
+}
+.populaires{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.container-activite{
+    display: block;
+    
+}
+.bloc-left{
+    display: block;
+}
+ul li{
+    list-style: none;
+    padding-bottom: 10px;
+    text-align: left;
+  }
+
+}
