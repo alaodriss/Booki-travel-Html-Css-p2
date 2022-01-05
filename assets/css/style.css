@@ -6,7 +6,7 @@
 }
 @font-face {
   font-family: "raleway";
-  src: url(../fonts/raleway/Raleway-VariableFont_wght.ttf) ;
+  src: url(../fonts/raleway/static/Raleway-VariableFont_wght.ttf) ;
 }
 
 @font-face {
@@ -16,7 +16,7 @@
 
 @font-face {
   font-family: "raleway-ex-b";
-  src: url(./fonts/raleway/static/Raleway-ExtraBold.ttf) ;
+  src: url(../fonts/raleway/static/Raleway-ExtraBold.ttf) ;
 }
 
 @font-face {
