@@ -1,7 +1,7 @@
 # Projet 2 - Booki
 
 
-Lien du porjet : https://flaaroussi.github.io/FaizaLaaroussi_2_25032021
+Lien du porjet : https://alaodriss.github.io/alaouidriss_2_28112021/
 
 Projet réalisé avec HTML et CSS.
 
