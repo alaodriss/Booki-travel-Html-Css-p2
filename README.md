@@ -1,7 +1,7 @@
 # Projet 2 - Booki
 
 
-Lien du porjet : https://alaodriss.github.io/alaouidriss_2_28112021/
+Lien du porjet : https://alaodriss.github.io/Booki-travel-Html-Css-p2/
 
 Projet réalisé avec HTML et CSS.
 
